@@ -1,0 +1,25 @@
+# light2hard 14 steps
+#
+# Taken pallete of gust wind in Diana
+
+ncolors = 16
+    
+255    255    255    # White
+223    243    252    # light blue
+191    239    255
+157  218  247  #
+# 102    194    165   # blue green
+0     220     0       # salat green
+160   230    50
+#255    255    191 # light yellow
+255    255    151 # light yellow
+# 240  229   91      # yellow
+250  232   92  # yellow
+254    224    139
+253    174    97
+244    109    67
+213    62    79
+118    42    131
+69    117    180
+186    186    186
+255    255    255

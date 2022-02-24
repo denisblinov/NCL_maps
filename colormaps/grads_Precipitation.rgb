@@ -1,0 +1,24 @@
+# Precipitation, 10 steps
+#
+# Taken pallete of gust wind in GrADS
+
+ncolors = 10
+
+# "Transparent","PaleGreen","green1","green2","green4","ForestGreen","orange","OrangeRed1","coral4"
+
+#    r     g     b
+#  -1     -1    -1
+#   255   255   255
+       0   0   0  0
+   150   245   140
+    80   230    80
+    25   180    25
+     5   128     5
+     0    90     0
+   255   192    60
+   255    96     0
+   225    20     0
+   165     0     0
+#  170   170   170
+
+   
